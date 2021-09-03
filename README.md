@@ -1,5 +1,4 @@
 - Hi, I'm Wesley
 - Game development, math, anime and phonetics are some of my interests
 - I'm currently learning korean, or better, 한국어
-- @EndryoMachado I just wanna see what happens if I a mention a friend on my README
 - 🇧🇷
